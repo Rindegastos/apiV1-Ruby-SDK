@@ -1,7 +1,4 @@
 # apiV1-Ruby-SDK
-Rindegastos RUBY SDK API documentation
-
-# SDK RUBY
 
 El SDK RUBY de Rindegastos te permite rápidamente integrar tus servicios con Rindegastos. Con el SDK podrás autenticarte y consumir los métodos de la API según tus necesidades sin tener que desarrollar desde cero todo.
 
@@ -12,7 +9,7 @@ Lo primero que debes hacer para usar el SDK es descargarlo aquí. Una vez descar
 Importante: recuerda que lo primero que debes hacer es tener to Token de Acceso a la API (solicítalo al administrador de tu cuenta empresa)
 
 # Ejemplo de uso
-Consumir los métodos de la API con el SDK es muy simple. A continuación te explicamos cómo hacerlo para usar el método getExpenses de la API.s
+Consumir los métodos de la API con el SDK es muy simple. A continuación te explicamos cómo hacerlo para usar el método getExpenses de la API.
 
 ``` RUBY
 require_relative 'Sdkrindegastos.rb'
